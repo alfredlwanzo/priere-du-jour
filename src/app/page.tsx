@@ -251,7 +251,7 @@ export default function Home() {
       <div className="max-w-2xl w-full mx-auto">
         <div
           ref={prayerCardRef}
-          className="bg-white dark:bg-gray-800 rounded-3xl shadow-2xl "
+          className="bg-white rounded-3xl shadow-2xl "
         >
           {/* Contenu à exporter */}
           <div ref={prayerContentRef} className="p-10">
@@ -265,10 +265,10 @@ export default function Home() {
                 className="rounded-full"
               />
               <div className="space-y-2 text-center">
-                <h1 className="text-3xl font-bold text-gray-800 dark:text-gray-100">
+                <h1 className="text-3xl font-bold text-gray-800 ">
                   Prière du Jour
                 </h1>
-                <p className="text-sm uppercase tracking-wider text-gray-500 dark:text-gray-400">
+                <p className="text-sm uppercase tracking-wider text-gray-500 ">
                   {new Intl.DateTimeFormat("fr", { dateStyle: "long" }).format(
                     new Date()
                   )}
@@ -278,36 +278,36 @@ export default function Home() {
 
             {/* Séparateur décoratif */}
             <div className="flex items-center justify-center mb-8">
-              <div className="h-px w-16 bg-gray-200 dark:bg-gray-700"></div>
-              <Scroll className="mx-4 w-5 h-5 text-gray-400 dark:text-gray-500" />
-              <div className="h-px w-16 bg-gray-200 dark:bg-gray-700"></div>
+              <div className="h-px w-16 bg-gray-200 "></div>
+              <Scroll className="mx-4 w-5 h-5 text-gray-400 " />
+              <div className="h-px w-16 bg-gray-200 "></div>
             </div>
 
             {/* Contenu de la prière */}
-            <div className="bg-amber-50 dark:bg-gray-800/50 rounded-2xl p-6 mb-10">
-              <p className="text-xl text-gray-700 dark:text-gray-200 leading-relaxed text-center italic">
+            <div className="bg-amber-50  rounded-2xl p-6 mb-10">
+              <p className="text-xl text-gray-700  leading-relaxed text-center italic">
                 {currentPrayer.prayer}
               </p>
             </div>
 
             {/* Conclusion */}
-            <p className="text-center text-lg font-semibold text-gray-600 dark:text-gray-300">
+            <p className="text-center text-lg font-semibold text-gray-600 ">
               Avec foi, amen!
             </p>
           </div>
 
           {/* Actions - En dehors du contenu à exporter */}
-          <div className="flex justify-center gap-8 border-t border-gray-100 dark:border-gray-700 pt-10 pb-10 ">
+          <div className="flex justify-center gap-8 border-t border-gray-100  pt-10 pb-10 ">
             <button
               onClick={handleShare}
-              className="text-gray-500 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200 transition-colors duration-200"
+              className="text-gray-500 hover:text-gray-800   transition-colors duration-200"
               title="Partager"
             >
               <Share2 className="w-6 h-6" />
             </button>
             <button
               onClick={handleExport}
-              className="text-gray-500 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200 transition-colors duration-200"
+              className="text-gray-500 hover:text-gray-800  transition-colors duration-200"
               title="Exporter en image"
             >
               <Download className="w-6 h-6" />
@@ -317,7 +317,7 @@ export default function Home() {
       </div>
 
       {/* Copyright */}
-      <div className="mt-8 text-center text-sm text-gray-500 dark:text-gray-400">
+      <div className="mt-8 text-center text-sm text-gray-500 ">
         <p>
           &copy; {new Date().getFullYear()}{" "}
           <a href="https://seldumonde.org">Seldumonde.org</a>. Tous droits
