@@ -627,7 +627,7 @@ export default function Home() {
 
             {/* Contenu de la prière */}
             <div className="  rounded-2xl p-6 mb-10 ">
-              <p className="text-xl   leading-relaxed text-center italic">
+              <p className="text-xl text-white   leading-relaxed text-center italic">
                 {currentPrayer.prayer} Amen!
               </p>
             </div>
