@@ -1,36 +1,56 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Prière du jour
 
-## Getting Started
+Bienvenue sur **Prière du jour**, un projet dédié à l'inspiration et à la prière quotidienne. Chaque jour, découvrez une nouvelle prière, générée avec soin et amour pour nourrir votre foi et votre relation avec Dieu. 🙏✨
 
-First, run the development server:
+## 🌟 À propos
+**Prière du Jour** est une initiative de [seldumonde.org](https://seldumonde.org), réalisée avec ❤️ amour pour la gloire de Dieu. Ce projet a pour but de fournir des prières quotidiennes accessibles sous format texte et image afin d'encourager la méditation spirituelle.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## 🚀 Technologies utilisées
+Ce projet est construit avec :
+
+- **Next.js** - Framework React moderne et performant
+- **Tailwind CSS** - Pour un design épuré et réactif
+- **html-to-image** - Pour générer des images des prières du jour
+- **lucide-react** - Pour des icônes modernes et élégantes
+
+## 📸 Fonctionnalités
+- Affichage quotidien d'une prière
+- Partager la prière du jour
+- Génération d'images pour les prières
+- Interface moderne et simple
+- Open-source et libre d'utilisation
+
+## 📥 Installation
+Clonez le projet et installez les dépendances :
+
+```sh
+git clone https://github.com/votre-utilisateur/priere-du-jour.git
+cd priere-du-jour
+npm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ▶️ Lancer le projet
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```sh
+npm run dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Ensuite, ouvrez [http://localhost:3000](http://localhost:3000) pour voir l'application en action.
 
-## Learn More
+## 📝 Ajouter des prières
+Après l'installation, vous pouvez ajouter des prières dans le fichier ``page.tsx`` du dossier ``app`` sous ``src``. Voici un exemple d'initialisation du tableau de prières :
 
-To learn more about Next.js, take a look at the following resources:
+```typescript
+const prayers: PrayerType[] = [
+  { date: "2025-01-01", prayer: "Seigneur, guide-moi en cette nouvelle année avec ta lumière et ta paix." }
+];
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🤝 Contribution
+Les contributions sont les bienvenues ! Vous pouvez soumettre des idées, corriger des bugs ou améliorer le design. 
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📜 Licence
+Ce projet est sous licence MIT.
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+✨ Que ce projet soit une bénédiction pour chacun ! ✨
