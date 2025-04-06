@@ -24,7 +24,7 @@ Ce projet est construit avec :
 Clonez le projet et installez les dépendances :
 
 ```sh
-git clone https://github.com/votre-utilisateur/priere-du-jour.git
+git clone https://github.com/alfredlwanzo/priere-du-jour.git
 cd priere-du-jour
 npm install
 ```
