@@ -599,9 +599,15 @@ export default function Home() {
   return (
     <main className="min-h-screen  flex flex-col items-center justify-center p-4 bg-gradient-to-tr from-amber-100 via-amber-200 to-amber-100">
       <div className="max-w-2xl w-full mx-auto">
-        <div ref={prayerCardRef} className="bg-white rounded-3xl shadow-2xl bg-gradient-to-bl from-amber-500  to-purple-500">
+        <div
+          ref={prayerCardRef}
+          className="bg-white rounded-3xl shadow-2xl bg-gradient-to-bl from-amber-500  to-purple-500"
+        >
           {/* Contenu à exporter */}
-          <div ref={prayerContentRef} className="p-10  bg-gradient-to-bl via-blue-red from-amber-500  to-purple-500">
+          <div
+            ref={prayerContentRef}
+            className="p-10  bg-gradient-to-bl via-blue-red from-amber-500  to-purple-500"
+          >
             {/* En-tête avec icône et date */}
             <div className="flex flex-col items-center space-y-4 mb-8">
               {/* <Image
@@ -612,10 +618,10 @@ export default function Home() {
                 className="rounded-full"
               /> */}
               <div className="space-y-2 text-center">
-                <h1 className="text-xl font-bold text-gray-800 ">
+                <h1 className="text-sm font-bold uppercase text-gray-800 ">
                   Prière du Jour
                 </h1>
-                <p className="text-sm uppercase tracking-wider text-gray-500 ">
+                <p className="text-sm normal-case tracking-wider text-gray-500 ">
                   {new Intl.DateTimeFormat("fr", { dateStyle: "long" }).format(
                     new Date()
                   )}
@@ -623,16 +629,14 @@ export default function Home() {
               </div>
             </div>
 
-           
-
             {/* Contenu de la prière */}
-            <div className="  rounded-2xl p-6 mb-10 ">
+            <div className="  rounded-2xl md:p-6 mb-10 ">
               <p className="text-xl text-white   leading-relaxed text-center italic">
                 {currentPrayer.prayer} Amen!
               </p>
             </div>
 
-             {/* Séparateur décoratif */}
+            {/* Séparateur décoratif */}
             <div className="flex items-center justify-center gap-4">
               {/* <div className="h-px w-16 bg-gray-200 "/> */}
               {/* <p></p> */}
