@@ -628,16 +628,16 @@ export default function Home() {
             {/* Contenu de la prière */}
             <div className="  rounded-2xl p-6 mb-10 ">
               <p className="text-xl   leading-relaxed text-center italic">
-                {currentPrayer.prayer}
+                {currentPrayer.prayer} Amen!
               </p>
             </div>
 
              {/* Séparateur décoratif */}
             <div className="flex items-center justify-center gap-4">
-              <div className="h-px w-16 bg-gray-200 "></div>
-              <p>Avec foi, amen!</p>
+              {/* <div className="h-px w-16 bg-gray-200 "/> */}
+              {/* <p></p> */}
               {/* <Scroll className="mx-4 w-5 h-5 text-gray-400 " /> */}
-              <div className="h-px w-16 bg-gray-200 "></div>
+              {/* <div className="h-px w-16 bg-gray-200 "/> */}
             </div>
 
             {/* Conclusion */}
