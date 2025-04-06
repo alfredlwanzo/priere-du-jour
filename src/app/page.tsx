@@ -1,9 +1,9 @@
 "use client";
 
 import { useEffect, useState, useRef } from "react";
-import { Scroll, Share2, Download } from "lucide-react";
+import { Share2, Download } from "lucide-react";
 import { toJpeg } from "html-to-image";
-import Image from "next/image";
+// import Image from "next/image";
 
 interface PrayerType {
   date: string; // "YYYY-MM-DD"
