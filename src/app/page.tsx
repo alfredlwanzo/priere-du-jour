@@ -647,7 +647,7 @@ export default function Home() {
           </div>
 
           {/* Actions - En dehors du contenu à exporter */}
-          <div className="flex justify-center gap-8 border-t border-gray-100  pt-10 pb-10 ">
+          <div className="flex justify-center gap-8 bg-white border-t border-gray-100  pt-10 pb-10 rounded-b-3xl">
             <button
               onClick={handleShare}
               className="text-gray-500 hover:text-gray-800   transition-colors duration-200"
