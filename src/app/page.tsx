@@ -318,11 +318,13 @@ const prayers: PrayerType[] = [
   },
   {
     date: "2025-04-19",
-    prayer: "Seigneur, apprends-moi à pardonner sincèrement.",
+    prayer:
+      "Seigneur, en ce Samedi Saint, nous méditons sur ton sacrifice et ton repos dans le tombeau. Aide-nous à attendre avec foi et espérance la gloire de ta résurrection.",
   },
   {
     date: "2025-04-20",
-    prayer: "Que ma foi grandisse à travers chaque épreuve.",
+    prayer:
+      "Alléluia ! Seigneur, en ce Dimanche de Pâques, nous célébrons ta victoire sur la mort. Remplis nos cœurs de joie et de gratitude pour le don de la vie éternelle.",
   },
   { date: "2025-04-21", prayer: "Aide-moi à garder les yeux fixés sur toi." },
   { date: "2025-04-22", prayer: "Seigneur, guide mes paroles et mes pensées." },
