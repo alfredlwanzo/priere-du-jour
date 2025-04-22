@@ -1259,7 +1259,6 @@ export default function Home() {
               <Share2 className="w-6 h-6 inline-block" />
               {/* Partager */}
             </button>
-            ou
             <button
               onClick={handleExport}
               className="flex-1 text-gray-500 hover:text-gray-800  transition-colors duration-200"
