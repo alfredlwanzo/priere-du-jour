@@ -441,7 +441,7 @@ const prayers: PrayerType[] = [
   },
   {
     date: "2025-05-26",
-    prayer: "Accorde-moi la sagesse pour discerner le bien du mal.",
+    prayer: "Seigneur, accorde-moi la sagesse pour discerner le bien du mal.",
   },
   {
     date: "2025-05-27",
@@ -449,7 +449,7 @@ const prayers: PrayerType[] = [
   },
   {
     date: "2025-05-28",
-    prayer: "Que mon amour pour toi grandisse sans cesse.",
+    prayer: "Seigneur, que mon amour pour toi grandisse sans cesse.",
   },
   {
     date: "2025-05-29",
@@ -457,34 +457,34 @@ const prayers: PrayerType[] = [
   },
   {
     date: "2025-05-30",
-    prayer: "Aide-moi à trouver du réconfort dans ta parole.",
+    prayer: "Eternel, aide-moi à trouver du réconfort dans ta parole.",
   },
   {
     date: "2025-05-31",
     prayer: "Seigneur, garde-moi sous ton aile protectrice.",
   },
-  { date: "2025-06-01", prayer: "Que ma foi illumine les ténèbres du doute." },
+  { date: "2025-06-01", prayer: "Seigneur, que ma foi illumine les ténèbres du doute." },
   {
     date: "2025-06-02",
     prayer: "Seigneur, donne-moi la force d’aimer mes ennemis.",
   },
-  { date: "2025-06-03", prayer: "Que ma vie reflète ta bonté et ta vérité." },
+  { date: "2025-06-03", prayer: "Seigneur, que ma vie reflète ta bonté et ta vérité." },
   { date: "2025-06-04", prayer: "Seigneur, remplis-moi de ton Esprit Saint." },
-  { date: "2025-06-05", prayer: "Donne-moi un cœur compatissant et généreux." },
+  { date: "2025-06-05", prayer: "Seigneur, donne-moi un cœur compatissant et généreux." },
   {
     date: "2025-06-06",
     prayer: "Seigneur, apprends-moi à être reconnaissant chaque jour.",
   },
-  { date: "2025-06-07", prayer: "Que ma prière soit un chant de louange." },
+  { date: "2025-06-07", prayer: "Seigneur, que ma prière soit un chant de louange." },
   { date: "2025-06-08", prayer: "Seigneur, garde-moi fidèle à ta parole." },
   {
     date: "2025-06-09",
-    prayer: "Accorde-moi la paix dans les moments d’incertitude.",
+    prayer: "Seigneur, accorde-moi la paix dans les moments d’incertitude.",
   },
   { date: "2025-06-10", prayer: "Seigneur, éclaire mon cœur et mon esprit." },
   {
     date: "2025-06-11",
-    prayer: "Que mon amour pour les autres reflète ton amour pour moi.",
+    prayer: "Seigneur, que mon amour pour les autres reflète ton amour pour moi.",
   },
   {
     date: "2025-06-12",
@@ -492,39 +492,39 @@ const prayers: PrayerType[] = [
   },
   {
     date: "2025-06-13",
-    prayer: "Donne-moi la grâce d’être patient et compatissant.",
+    prayer: "Seigneur, donne-moi la grâce d’être patient et compatissant.",
   },
   {
     date: "2025-06-14",
     prayer: "Seigneur, renouvelle en moi un esprit de paix.",
   },
-  { date: "2025-06-15", prayer: "Que ma confiance en toi soit mon refuge." },
+  { date: "2025-06-15", prayer: "Seigneur, que ma confiance en toi soit mon refuge." },
   {
     date: "2025-06-16",
     prayer: "Seigneur, donne-moi la force de toujours choisir le bien.",
   },
-  { date: "2025-06-17", prayer: "Accorde-moi un cœur humble et obéissant." },
+  { date: "2025-06-17", prayer: "Seigneur, accorde-moi un cœur humble et obéissant." },
   {
     date: "2025-06-18",
     prayer: "Seigneur, guide-moi sur le chemin de la justice.",
   },
-  { date: "2025-06-19", prayer: "Que ma vie soit un témoignage de ton amour." },
+  { date: "2025-06-19", prayer: "Seigneur, que ma vie soit un témoignage de ton amour." },
   { date: "2025-06-20", prayer: "Seigneur, fortifie mon âme et mon esprit." },
   {
     date: "2025-06-21",
-    prayer: "Donne-moi la patience pour attendre ton plan parfait.",
+    prayer: "Seigneur, donne-moi la patience pour attendre ton plan parfait.",
   },
   { date: "2025-06-22", prayer: "Seigneur, enseigne-moi à aimer comme toi." },
-  { date: "2025-06-23", prayer: "Remplis mon cœur de paix et de joie." },
+  { date: "2025-06-23", prayer: "Seigneur, remplis mon cœur de paix et de joie." },
   { date: "2025-06-24", prayer: "Seigneur, sois ma lumière et mon salut." },
-  { date: "2025-06-25", prayer: "Que ma foi en toi grandisse chaque jour." },
+  { date: "2025-06-25", prayer: "Eternel, que ma foi en toi grandisse chaque jour." },
   {
     date: "2025-06-26",
     prayer: "Seigneur, garde-moi proche de toi en tout temps.",
   },
   {
     date: "2025-06-27",
-    prayer: "Que je sois un témoin de ton amour sur terre.",
+    prayer: "Jésus, que je sois un témoin de ton amour sur terre.",
   },
   {
     date: "2025-06-28",
@@ -532,7 +532,7 @@ const prayers: PrayerType[] = [
   },
   {
     date: "2025-06-29",
-    prayer: "Que ton Esprit me guide chaque jour de ma vie.",
+    prayer: "Seigneur, que ton Esprit me guide chaque jour de ma vie.",
   },
   {
     date: "2025-06-30",
@@ -544,11 +544,11 @@ const prayers: PrayerType[] = [
   },
   {
     date: "2025-07-02",
-    prayer: "Donne-moi un cœur attentif à ta parole aujourd’hui.",
+    prayer: "Eternel, donne-moi un cœur attentif à ta parole aujourd’hui.",
   },
   {
     date: "2025-07-03",
-    prayer: "Que mon esprit soit rempli de paix et d’espérance.",
+    prayer: "Seigneur, que mon esprit soit rempli de paix et d’espérance.",
   },
   {
     date: "2025-07-04",
@@ -556,11 +556,11 @@ const prayers: PrayerType[] = [
   },
   {
     date: "2025-07-05",
-    prayer: "Remplis-moi de gratitude pour chaque bénédiction reçue.",
+    prayer: "Seigneur, remplis-moi de gratitude pour chaque bénédiction reçue.",
   },
   {
     date: "2025-07-06",
-    prayer: "Que ma vie reflète ta sagesse et ta patience.",
+    prayer: "Seigneur, que ma vie reflète ta sagesse et ta patience.",
   },
   {
     date: "2025-07-07",
@@ -576,7 +576,7 @@ const prayers: PrayerType[] = [
   },
   {
     date: "2025-07-10",
-    prayer: "Donne-moi la paix face aux incertitudes de la vie.",
+    prayer: "Seigneur, Donne-moi la paix face aux incertitudes de la vie.",
   },
   {
     date: "2025-07-11",
@@ -584,16 +584,16 @@ const prayers: PrayerType[] = [
   },
   {
     date: "2025-07-12",
-    prayer: "Que mes paroles soient douces et bienveillantes.",
+    prayer: "Seigneur, que mes paroles soient douces et bienveillantes.",
   },
   {
     date: "2025-07-13",
     prayer: "Seigneur, accorde-moi la patience en toutes choses.",
   },
-  { date: "2025-07-14", prayer: "Aide-moi à trouver du repos en toi." },
+  { date: "2025-07-14", prayer: "Seigneur, aide-moi à trouver du repos en toi." },
   {
     date: "2025-07-15",
-    prayer: "Que mon cœur soit rempli d’humilité et d’amour.",
+    prayer: "Seigneur, que mon cœur soit rempli d’humilité et d’amour.",
   },
   {
     date: "2025-07-16",
@@ -601,72 +601,72 @@ const prayers: PrayerType[] = [
   },
   {
     date: "2025-07-17",
-    prayer: "Apprends-moi à être reconnaissant même dans l’épreuve.",
+    prayer: "Seigneur, apprends-moi à être reconnaissant même dans l’épreuve.",
   },
-  { date: "2025-07-18", prayer: "Que ma foi grandisse chaque jour en toi." },
+  { date: "2025-07-18", prayer: "Seigneur, que ma foi grandisse chaque jour en toi." },
   {
     date: "2025-07-19",
     prayer: "Seigneur, enseigne-moi à marcher dans ta lumière.",
   },
-  { date: "2025-07-20", prayer: "Remplis mon âme de paix et de joie." },
+  { date: "2025-07-20", prayer: "Seigneur, remplis mon âme de paix et de joie." },
   {
     date: "2025-07-21",
-    prayer: "Aide-moi à voir tes bénédictions dans chaque instant.",
+    prayer: "Seigneur, aide-moi à voir tes bénédictions dans chaque instant.",
   },
-  { date: "2025-07-22", prayer: "Que je sois un témoin fidèle de ton amour." },
+  { date: "2025-07-22", prayer: "Eternel, que je sois un témoin fidèle de ton amour." },
   {
     date: "2025-07-23",
     prayer: "Seigneur, garde-moi dans ta vérité et ta justice.",
   },
   {
     date: "2025-07-24",
-    prayer: "Apprends-moi à pardonner comme toi tu pardonnes.",
+    prayer: "Seigneur, apprends-moi à pardonner comme toi tu pardonnes.",
   },
   {
     date: "2025-07-25",
-    prayer: "Que ma journée commence et se termine par la prière.",
+    prayer: "Seigneur, que ma journée commence et se termine par la prière.",
   },
   { date: "2025-07-26", prayer: "Seigneur, remplis mon cœur de compassion." },
   {
     date: "2025-07-27",
-    prayer: "Aide-moi à garder confiance en toi malgré les tempêtes.",
+    prayer: "Seigneur, aide-moi à garder confiance en toi malgré les tempêtes.",
   },
-  { date: "2025-07-28", prayer: "Que ma foi se renforce chaque jour en toi." },
+  { date: "2025-07-28", prayer: "Seigneur, que ma foi se renforce chaque jour en toi." },
   {
     date: "2025-07-29",
     prayer: "Seigneur, enseigne-moi à être patient et humble.",
   },
-  { date: "2025-07-30", prayer: "Aide-moi à aimer sans condition." },
+  { date: "2025-07-30", prayer: "Seigneur, aide-moi à aimer sans condition." },
   {
     date: "2025-07-31",
     prayer: "Seigneur, prépare mon cœur pour un nouveau mois.",
   },
-  { date: "2025-08-01", prayer: "Que ce mois commence sous ta bénédiction." },
+  { date: "2025-08-01", prayer: "Seigneur, que ce mois commence sous ta bénédiction." },
   {
     date: "2025-08-02",
     prayer: "Seigneur, donne-moi la sagesse pour chaque situation.",
   },
   {
     date: "2025-08-03",
-    prayer: "Aide-moi à voir ta main dans chaque détail de ma vie.",
+    prayer: "Seigneur, aide-moi à voir ta main dans chaque détail de ma vie.",
   },
   {
     date: "2025-08-04",
-    prayer: "Que ma foi brille comme une lumière autour de moi.",
+    prayer: "Seigneur, que ma foi brille comme une lumière autour de moi.",
   },
   { date: "2025-08-05", prayer: "Seigneur, renouvelle ma joie aujourd’hui." },
   {
     date: "2025-08-06",
-    prayer: "Aide-moi à marcher avec confiance et sérénité.",
+    prayer: "Seigneur, aide-moi à marcher avec confiance et sérénité.",
   },
-  { date: "2025-08-07", prayer: "Que je trouve mon refuge en toi seul." },
+  { date: "2025-08-07", prayer: "Seigneur, que je trouve mon refuge en toi seul." },
   {
     date: "2025-08-08",
     prayer: "Seigneur, garde-moi dans ta paix aujourd’hui.",
   },
   {
     date: "2025-08-09",
-    prayer: "Donne-moi la force de persévérer dans la foi.",
+    prayer: "Seigneur, donne-moi la force de persévérer dans la foi.",
   },
   {
     date: "2025-08-10",
@@ -674,41 +674,41 @@ const prayers: PrayerType[] = [
   },
   {
     date: "2025-08-11",
-    prayer: "Aide-moi à être une bénédiction pour mon entourage.",
+    prayer: "Seigneur, aide-moi à être une bénédiction pour mon entourage.",
   },
   {
     date: "2025-08-12",
-    prayer: "Que mes actions reflètent ton amour aujourd’hui.",
+    prayer: "Seigneur, que mes actions reflètent ton amour aujourd’hui.",
   },
   {
     date: "2025-08-13",
     prayer: "Seigneur, accorde-moi la patience et l’humilité.",
   },
-  { date: "2025-08-14", prayer: "Que mon âme trouve du repos en toi." },
+  { date: "2025-08-14", prayer: "Seigneur, que mon âme trouve du repos en toi." },
   {
     date: "2025-08-15",
     prayer: "Seigneur, sois mon guide en toute circonstance.",
   },
-  { date: "2025-08-16", prayer: "Apprends-moi à toujours garder l’espérance." },
+  { date: "2025-08-16", prayer: "Seigneur, apprends-moi à toujours garder l’espérance." },
   { date: "2025-08-17", prayer: "Seigneur, fortifie mon cœur et mon esprit." },
-  { date: "2025-08-18", prayer: "Aide-moi à semer la paix autour de moi." },
-  { date: "2025-08-19", prayer: "Que mon cœur reste attaché à ta vérité." },
+  { date: "2025-08-18", prayer: "Seigneur, aide-moi à semer la paix autour de moi." },
+  { date: "2025-08-19", prayer: "Seigneur, que mon cœur reste attaché à ta vérité." },
   {
     date: "2025-08-20",
     prayer: "Seigneur, garde-moi fidèle à toi en toutes choses.",
   },
   {
     date: "2025-08-21",
-    prayer: "Apprends-moi à me réjouir en toi chaque jour.",
+    prayer: "Seigneur, apprends-moi à me réjouir en toi chaque jour.",
   },
-  { date: "2025-08-22", prayer: "Que ma foi soit inébranlable en toi." },
+  { date: "2025-08-22", prayer: "Seigneur, que ma foi soit inébranlable en toi." },
   {
     date: "2025-08-23",
     prayer: "Seigneur, remplis mon cœur d’amour et de paix.",
   },
   {
     date: "2025-08-24",
-    prayer: "Que ma vie soit un témoignage de ta fidélité.",
+    prayer: "Seigneur, que ma vie soit un témoignage de ta fidélité.",
   },
   {
     date: "2025-08-25",
@@ -716,7 +716,7 @@ const prayers: PrayerType[] = [
   },
   {
     date: "2025-08-26",
-    prayer: "Aide-moi à toujours faire confiance à ton plan.",
+    prayer: "Seigneur, aide-moi à toujours faire confiance à ton plan.",
   },
   {
     date: "2025-08-27",
@@ -724,13 +724,13 @@ const prayers: PrayerType[] = [
   },
   {
     date: "2025-08-28",
-    prayer: "Que ma vie glorifie ton nom en toutes choses.",
+    prayer: "Seigneur, que ma vie glorifie ton nom en toutes choses.",
   },
   {
     date: "2025-08-29",
     prayer: "Seigneur, remplis-moi de ta force et de ton courage.",
   },
-  { date: "2025-08-30", prayer: "Aide-moi à toujours chercher ta présence." },
+  { date: "2025-08-30", prayer: "Seigneur, aide-moi à toujours chercher ta présence." },
   {
     date: "2025-08-31",
     prayer: "Seigneur, je termine ce mois avec gratitude et foi.",
@@ -739,14 +739,14 @@ const prayers: PrayerType[] = [
     date: "2025-09-01",
     prayer: "Seigneur, renouvelle mes forces pour ce mois qui commence.",
   },
-  { date: "2025-09-02", prayer: "Aide-moi à garder un cœur pur et sincère." },
+  { date: "2025-09-02", prayer: "Seigneur, aide-moi à garder un cœur pur et sincère." },
   {
     date: "2025-09-03",
-    prayer: "Que ma confiance en toi grandisse chaque jour.",
+    prayer: "Seigneur, que ma confiance en toi grandisse chaque jour.",
   },
   {
     date: "2025-09-04",
-    prayer: "Donne-moi la sagesse dans toutes mes décisions.",
+    prayer: "Seigneur, donne-moi la sagesse dans toutes mes décisions.",
   },
   {
     date: "2025-09-05",
@@ -754,20 +754,20 @@ const prayers: PrayerType[] = [
   },
   {
     date: "2025-09-06",
-    prayer: "Remplis-moi de paix et de patience aujourd’hui.",
+    prayer: "Seigneur, remplis-moi de paix et de patience aujourd’hui.",
   },
   {
     date: "2025-09-07",
-    prayer: "Que ma foi soit ferme face aux défis de la vie.",
+    prayer: "Segneur, que ma foi soit ferme face aux défis de la vie.",
   },
   { date: "2025-09-08", prayer: "Seigneur, sois mon refuge et mon guide." },
   {
     date: "2025-09-09",
-    prayer: "Apprends-moi à voir le bien en chaque personne.",
+    prayer: "Seigneur, apprends-moi à voir le bien en chaque personne.",
   },
   {
     date: "2025-09-10",
-    prayer: "Que ma journée soit remplie de gratitude et d’espérance.",
+    prayer: "Seigneur, que ma journée soit remplie de gratitude et d’espérance.",
   },
   {
     date: "2025-09-11",
@@ -775,15 +775,15 @@ const prayers: PrayerType[] = [
   },
   {
     date: "2025-09-12",
-    prayer: "Aide-moi à marcher dans la droiture et l’humilité.",
+    prayer: "Seigneur, aide-moi à marcher dans la droiture et l’humilité.",
   },
   {
     date: "2025-09-13",
-    prayer: "Remplis-moi d’amour pour ceux qui m’entourent.",
+    prayer: "Seigneur, remplis-moi d’amour pour ceux qui m’entourent.",
   },
   {
     date: "2025-09-14",
-    prayer: "Que ma vie témoigne de ta grâce et de ta fidélité.",
+    prayer: "Seigneur, que ma vie témoigne de ta grâce et de ta fidélité.",
   },
   {
     date: "2025-09-15",
@@ -791,97 +791,97 @@ const prayers: PrayerType[] = [
   },
   {
     date: "2025-09-16",
-    prayer: "Donne-moi la force de persévérer dans la prière.",
+    prayer: "Seigneur, donne-moi la force de persévérer dans la prière.",
   },
   {
     date: "2025-09-17",
-    prayer: "Que ma bouche prononce des paroles de bénédiction.",
+    prayer: "Seigneur, que ma bouche prononce des paroles de bénédiction.",
   },
   { date: "2025-09-18", prayer: "Seigneur, renouvelle mon âme et mon esprit." },
   {
     date: "2025-09-19",
-    prayer: "Aide-moi à être une source de paix et de réconfort.",
+    prayer: "Seigneur, aide-moi à être une source de paix et de réconfort.",
   },
   {
     date: "2025-09-20",
     prayer: "Seigneur, éclaire mon chemin et guide mes pas.",
   },
-  { date: "2025-09-21", prayer: "Apprends-moi à écouter et à suivre ta voix." },
+  { date: "2025-09-21", prayer: "Seigneur, apprends-moi à écouter et à suivre ta voix." },
   {
     date: "2025-09-22",
-    prayer: "Que je sois un instrument de ta paix aujourd’hui.",
+    prayer: "Seigneur, que je sois un instrument de ta paix aujourd’hui.",
   },
   { date: "2025-09-23", prayer: "Seigneur, remplis mon cœur de ta présence." },
   {
     date: "2025-09-24",
-    prayer: "Aide-moi à toujours choisir la vérité et l’amour.",
+    prayer: "Seigneur, aide-moi à toujours choisir la vérité et l’amour.",
   },
   {
     date: "2025-09-25",
-    prayer: "Que ma foi ne chancelle pas devant l’adversité.",
+    prayer: "Seigneur, que ma foi ne chancelle pas devant l’adversité.",
   },
   { date: "2025-09-26", prayer: "Seigneur, sois ma force et mon réconfort." },
   {
     date: "2025-09-27",
-    prayer: "Aide-moi à vivre selon ta parole chaque jour.",
+    prayer: "Seigneur, aide-moi à vivre selon ta parole chaque jour.",
   },
-  { date: "2025-09-28", prayer: "Que ta paix habite mon cœur et mon esprit." },
+  { date: "2025-09-28", prayer: "Seigneur, que ta paix habite mon cœur et mon esprit." },
   {
     date: "2025-09-29",
     prayer: "Seigneur, je te confie toutes mes inquiétudes.",
   },
-  { date: "2025-09-30", prayer: "Donne-moi la force de rester fidèle à toi." },
+  { date: "2025-09-30", prayer: "Seigneur, donne-moi la force de rester fidèle à toi." },
   {
     date: "2025-10-01",
     prayer: "Seigneur, bénis ce mois et guide-moi en tout temps.",
   },
   {
     date: "2025-10-02",
-    prayer: "Apprends-moi à être reconnaissant en toute circonstance.",
+    prayer: "Seigneur, apprends-moi à être reconnaissant en toute circonstance.",
   },
   {
     date: "2025-10-03",
-    prayer: "Que mon cœur soit rempli d’amour et de compassion.",
+    prayer: "Seigneur, que mon cœur soit rempli d’amour et de compassion.",
   },
   { date: "2025-10-04", prayer: "Seigneur, renouvelle mon espoir et ma foi." },
   {
     date: "2025-10-05",
-    prayer: "Aide-moi à faire preuve de patience et d’humilité.",
+    prayer: "Seigneur, aide-moi à faire preuve de patience et d’humilité.",
   },
-  { date: "2025-10-06", prayer: "Que ma vie reflète ta lumière et ta bonté." },
+  { date: "2025-10-06", prayer: "Seigneur, que ma vie reflète ta lumière et ta bonté." },
   {
     date: "2025-10-07",
     prayer: "Seigneur, apprends-moi à marcher selon ta volonté.",
   },
-  { date: "2025-10-08", prayer: "Remplis-moi de paix et de joie aujourd’hui." },
-  { date: "2025-10-09", prayer: "Que je sois un témoin fidèle de ton amour." },
+  { date: "2025-10-08", prayer: "Seigneur, remplis-moi de paix et de joie aujourd’hui." },
+  { date: "2025-10-09", prayer: "Seigneur, que je sois un témoin fidèle de ton amour." },
   {
     date: "2025-10-10",
     prayer: "Seigneur, éclaire mes choix et mes décisions.",
   },
-  { date: "2025-10-11", prayer: "Donne-moi un cœur généreux et compatissant." },
+  { date: "2025-10-11", prayer: "Seigneur, donne-moi un cœur généreux et compatissant." },
   {
     date: "2025-10-12",
-    prayer: "Aide-moi à persévérer malgré les difficultés.",
+    prayer: "Seigneur, aide-moi à persévérer malgré les difficultés.",
   },
-  { date: "2025-10-13", prayer: "Que ma foi se renforce jour après jour." },
+  { date: "2025-10-13", prayer: "Seigneur, que ma foi se renforce jour après jour." },
   {
     date: "2025-10-14",
     prayer: "Seigneur, sois ma force dans les moments de faiblesse.",
   },
-  { date: "2025-10-15", prayer: "Que ton amour soit ma source de réconfort." },
+  { date: "2025-10-15", prayer: "Seigneur, que ton amour soit ma source de réconfort." },
   {
     date: "2025-10-16",
-    prayer: "Aide-moi à toujours faire preuve d’humilité.",
+    prayer: "Seigneur, aide-moi à toujours faire preuve d’humilité.",
   },
   {
     date: "2025-10-17",
     prayer: "Seigneur, apprends-moi à pardonner de tout mon cœur.",
   },
-  { date: "2025-10-18", prayer: "Remplis-moi de sagesse et de discernement." },
+  { date: "2025-10-18", prayer: "Seigneur, remplis-moi de sagesse et de discernement." },
   {
     date: "2025-10-19",
-    prayer: "Que je sois un reflet de ta bonté et de ta miséricorde.",
+    prayer: "Seigneur, que je sois un reflet de ta bonté et de ta miséricorde.",
   },
   {
     date: "2025-10-20",
@@ -889,38 +889,38 @@ const prayers: PrayerType[] = [
   },
   {
     date: "2025-10-21",
-    prayer: "Aide-moi à témoigner de ta fidélité en tout temps.",
+    prayer: "Seigneur, aide-moi à témoigner de ta fidélité en tout temps.",
   },
   {
     date: "2025-10-22",
-    prayer: "Que mon cœur soit en paix et rempli d’espérance.",
+    prayer: "Seigneur, que mon cœur soit en paix et rempli d’espérance.",
   },
   { date: "2025-10-23", prayer: "Seigneur, sois ma lumière et mon réconfort." },
   {
     date: "2025-10-24",
-    prayer: "Donne-moi la force de rester fidèle à tes enseignements.",
+    prayer: "Seigneur, donne-moi la force de rester fidèle à tes enseignements.",
   },
   {
     date: "2025-10-25",
-    prayer: "Aide-moi à aimer même dans les moments difficiles.",
+    prayer: "Seigneur, aide-moi à aimer même dans les moments difficiles.",
   },
   {
     date: "2025-10-26",
-    prayer: "Que ma journée soit remplie de ta grâce et de ta paix.",
+    prayer: "Seigneur, que ma journée soit remplie de ta grâce et de ta paix.",
   },
   {
     date: "2025-10-27",
     prayer: "Seigneur, je remets mes projets entre tes mains.",
   },
-  { date: "2025-10-28", prayer: "Apprends-moi à écouter et à suivre ta voix." },
-  { date: "2025-10-29", prayer: "Que ma foi en toi soit inébranlable." },
+  { date: "2025-10-28", prayer: "Seigneur, apprends-moi à écouter et à suivre ta voix." },
+  { date: "2025-10-29", prayer: "Seigneur, que ma foi en toi soit inébranlable." },
   {
     date: "2025-10-30",
     prayer: "Seigneur, renouvelle mon cœur et mon esprit.",
   },
   {
     date: "2025-10-31",
-    prayer: "Aide-moi à terminer ce mois avec gratitude et paix.",
+    prayer: "Seigneur, aide-moi à terminer ce mois avec gratitude et paix.",
   },
   {
     date: "2025-11-01",
@@ -928,15 +928,15 @@ const prayers: PrayerType[] = [
   },
   {
     date: "2025-11-02",
-    prayer: "Aide-moi à toujours rechercher ta présence en toute chose.",
+    prayer: "Seigneur, aide-moi à toujours rechercher ta présence en toute chose.",
   },
   {
     date: "2025-11-03",
-    prayer: "Donne-moi la sagesse pour affronter chaque défi avec foi.",
+    prayer: "Seigneur, donne-moi la sagesse pour affronter chaque défi avec foi.",
   },
   {
     date: "2025-11-04",
-    prayer: "Que ton amour me guide dans toutes mes décisions.",
+    prayer: "Seigneur, que ton amour me guide dans toutes mes décisions.",
   },
   {
     date: "2025-11-05",
@@ -944,11 +944,11 @@ const prayers: PrayerType[] = [
   },
   {
     date: "2025-11-06",
-    prayer: "Que ma vie soit un témoignage vivant de ta grâce.",
+    prayer: "Seigneur, que ma vie soit un témoignage vivant de ta grâce.",
   },
   {
     date: "2025-11-07",
-    prayer: "Accorde-moi la patience et la force dans les épreuves.",
+    prayer: "Seigneur, accorde-moi la patience et la force dans les épreuves.",
   },
   {
     date: "2025-11-08",
@@ -956,7 +956,7 @@ const prayers: PrayerType[] = [
   },
   {
     date: "2025-11-09",
-    prayer: "Donne-moi un esprit de pardon et de réconciliation.",
+    prayer: "Seigneur, donne-moi un esprit de pardon et de réconciliation.",
   },
   {
     date: "2025-11-10",
@@ -968,7 +968,7 @@ const prayers: PrayerType[] = [
   },
   {
     date: "2025-11-12",
-    prayer: "Remplis-moi d’espérance et de confiance en ton plan.",
+    prayer: "Seigneur, remplis-moi d’espérance et de confiance en ton plan.",
   },
   {
     date: "2025-11-13",
@@ -976,11 +976,11 @@ const prayers: PrayerType[] = [
   },
   {
     date: "2025-11-14",
-    prayer: "Que je sois un instrument de paix et d’amour aujourd’hui.",
+    prayer: "Seigneur, que je sois un instrument de paix et d’amour aujourd’hui.",
   },
   {
     date: "2025-11-15",
-    prayer: "Apprends-moi à écouter ta voix et à suivre ta direction.",
+    prayer: "Seigneur, apprends-moi à écouter ta voix et à suivre ta direction.",
   },
   {
     date: "2025-11-16",
@@ -988,7 +988,7 @@ const prayers: PrayerType[] = [
   },
   {
     date: "2025-11-17",
-    prayer: "Aide-moi à voir tes bénédictions dans chaque situation.",
+    prayer: "Seigneur, aide-moi à voir tes bénédictions dans chaque situation.",
   },
   {
     date: "2025-11-18",
@@ -996,7 +996,7 @@ const prayers: PrayerType[] = [
   },
   {
     date: "2025-11-19",
-    prayer: "Que ton amour transforme mon cœur chaque jour.",
+    prayer: "Seigneur, que ton amour transforme mon cœur chaque jour.",
   },
   {
     date: "2025-11-20",
@@ -1004,11 +1004,11 @@ const prayers: PrayerType[] = [
   },
   {
     date: "2025-11-21",
-    prayer: "Aide-moi à persévérer malgré les difficultés.",
+    prayer: "Seigneur, aide-moi à persévérer malgré les difficultés.",
   },
   {
     date: "2025-11-22",
-    prayer: "Que ma vie soit remplie de louanges et de reconnaissance.",
+    prayer: "Seigneur, que ma vie soit remplie de louanges et de reconnaissance.",
   },
   {
     date: "2025-11-23",
@@ -1016,21 +1016,21 @@ const prayers: PrayerType[] = [
   },
   {
     date: "2025-11-24",
-    prayer: "Donne-moi la force d’aimer comme tu nous aimes.",
+    prayer: "Seigneur, donne-moi la force d’aimer comme tu nous aimes.",
   },
   {
     date: "2025-11-25",
     prayer: "Seigneur, garde-moi dans ta vérité et ta justice.",
   },
-  { date: "2025-11-26", prayer: "Aide-moi à cultiver un esprit de gratitude." },
-  { date: "2025-11-27", prayer: "Que ton Esprit Saint me guide chaque jour." },
+  { date: "2025-11-26", prayer: "Seigneur, aide-moi à cultiver un esprit de gratitude." },
+  { date: "2025-11-27", prayer: "Seigneur, que ton Esprit Saint me guide chaque jour." },
   {
     date: "2025-11-28",
     prayer: "Seigneur, éclaire mon chemin et affermis ma foi.",
   },
   {
     date: "2025-11-29",
-    prayer: "Apprends-moi à être patient et à attendre ton timing parfait.",
+    prayer: "Seigneur, apprends-moi à être patient et à attendre ton timing parfait.",
   },
   {
     date: "2025-11-30",
@@ -1042,7 +1042,7 @@ const prayers: PrayerType[] = [
   },
   {
     date: "2025-12-02",
-    prayer: "Que ta paix demeure en moi malgré les défis.",
+    prayer: "Seigneur, que ta paix demeure en moi malgré les défis.",
   },
   {
     date: "2025-12-03",
@@ -1050,7 +1050,7 @@ const prayers: PrayerType[] = [
   },
   {
     date: "2025-12-04",
-    prayer: "Accorde-moi la force d’aimer même lorsque c’est difficile.",
+    prayer: "Seigneur, accorde-moi la force d’aimer même lorsque c’est difficile.",
   },
   {
     date: "2025-12-05",
@@ -1058,37 +1058,37 @@ const prayers: PrayerType[] = [
   },
   {
     date: "2025-12-06",
-    prayer: "Remplis-moi de gratitude pour chaque bénédiction reçue.",
+    prayer: "Seigneur, remplis-moi de gratitude pour chaque bénédiction reçue.",
   },
   {
     date: "2025-12-07",
-    prayer: "Que mon cœur soit tourné vers toi en tout temps.",
+    prayer: "Seigneur, que mon cœur soit tourné vers toi en tout temps.",
   },
   {
     date: "2025-12-08",
     prayer: "Seigneur, je t’élève mon adoration et ma reconnaissance.",
   },
-  { date: "2025-12-09", prayer: "Que je sois un témoin fidèle de ton amour." },
+  { date: "2025-12-09", prayer: "Seigneur, que je sois un témoin fidèle de ton amour." },
   {
     date: "2025-12-10",
     prayer: "Seigneur, accorde-moi la persévérance dans la foi.",
   },
   {
     date: "2025-12-11",
-    prayer: "Aide-moi à être patient et bienveillant avec mon prochain.",
+    prayer: "Seigneur, aide-moi à être patient et bienveillant avec mon prochain.",
   },
   {
     date: "2025-12-12",
     prayer: "Seigneur, renouvelle mon esprit et remplis-moi de ta paix.",
   },
-  { date: "2025-12-13", prayer: "Que ma vie reflète ta lumière et ta vérité." },
+  { date: "2025-12-13", prayer: "Seigneur, que ma vie reflète ta lumière et ta vérité." },
   {
     date: "2025-12-14",
     prayer: "Seigneur, apprends-moi à aimer sans condition.",
   },
   {
     date: "2025-12-15",
-    prayer: "Aide-moi à me souvenir de tes bienfaits chaque jour.",
+    prayer: "Seigneur, aide-moi à me souvenir de tes bienfaits chaque jour.",
   },
   {
     date: "2025-12-16",
@@ -1096,20 +1096,20 @@ const prayers: PrayerType[] = [
   },
   {
     date: "2025-12-17",
-    prayer: "Donne-moi un cœur humble et obéissant à ta voix.",
+    prayer: "Seigneur, donne-moi un cœur humble et obéissant à ta voix.",
   },
   {
     date: "2025-12-18",
     prayer: "Seigneur, sois mon guide dans cette fin d’année.",
   },
-  { date: "2025-12-19", prayer: "Que ta présence soit ma paix et ma joie." },
+  { date: "2025-12-19", prayer: "Seigneur, que ta présence soit ma paix et ma joie." },
   {
     date: "2025-12-20",
     prayer: "Seigneur, fortifie ma foi en cette saison de célébration.",
   },
   {
     date: "2025-12-21",
-    prayer: "Accorde-moi la grâce de partager ton amour autour de moi.",
+    prayer: "Seigneur, accorde-moi la grâce de partager ton amour autour de moi.",
   },
   {
     date: "2025-12-22",
@@ -1117,7 +1117,7 @@ const prayers: PrayerType[] = [
   },
   {
     date: "2025-12-23",
-    prayer: "Que ta gloire brille à travers ma vie en cette fin d’année.",
+    prayer: "Seigneur, que ta gloire brille à travers ma vie en cette fin d’année.",
   },
   {
     date: "2025-12-24",
@@ -1133,13 +1133,13 @@ const prayers: PrayerType[] = [
   },
   {
     date: "2025-12-27",
-    prayer: "Que je sois un messager de ta paix et de ton amour.",
+    prayer: "Seigneur, que je sois un messager de ta paix et de ton amour.",
   },
   {
     date: "2025-12-28",
     prayer: "Seigneur, merci pour chaque instant vécu cette année.",
   },
-  { date: "2025-12-29", prayer: "Prépare mon cœur pour l’année à venir." },
+  { date: "2025-12-29", prayer: "Seigneur, prépare mon cœur pour l’année à venir." },
   {
     date: "2025-12-30",
     prayer: "Seigneur, je t’offre tout ce que je suis et tout ce que j’ai.",
